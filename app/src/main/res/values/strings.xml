@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StreetArtTestProject</string>
+    <string name="load_artworks">Load Artworks</string>
+    <string name="unknown_error">Unknown Error</string>
+    <string name="load_complete">Load Complete</string>
+    <string name="no_artworks">There is no artworks</string>
+    <string name="tap_message">Tap on the button</string>
+    <string name="close">Close</string>
+</resources>
